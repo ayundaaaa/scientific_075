@@ -473,8 +473,7 @@ public class scientific_075 {
 		            return;
 		        }
 				operation = "";
-				first = (double) 0;
-				second = (double) 0;
+				
 			}
 		});
 		btnHasil.setFont(new Font("Sitka Text", Font.BOLD, 20));
